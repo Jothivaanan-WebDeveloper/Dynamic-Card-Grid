@@ -40,7 +40,7 @@ Before you begin, make sure you have Node.js installed. If not, visit the [offic
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/dynamic-card-grid.git
+    git clone https://github.com/Jothivaanan-WebDeveloper/dynamic-card-grid.git
     ```
 2. Navigate to the project directory:
     ```bash
